@@ -1,1 +1,3 @@
 # Syncytium.NetCore
+
+En cours d'écriture ...
